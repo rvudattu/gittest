@@ -3,9 +3,9 @@ name: git-django-cloud-poc
 
 on:
   push:
-    branches: [newdev5]
+    branches: [newdev6]
   pull_request:
-    branches: [newdev5]
+    branches: [newdev6]
 
 env:
   PROJECT_ID: ${{ secrets.RUN_PROJECT }}
