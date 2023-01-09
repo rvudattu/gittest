@@ -6,8 +6,9 @@ bin-release/
 
 # Other files and folders
 .settings/
-.github/workflows/testdev.yml
-*.testdev.yml
+# .github/workflows/testdev.yml
+# *.testdev.yml
+workflows/testdev.yml
 
 # Executables
 *.swf
