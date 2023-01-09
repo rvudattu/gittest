@@ -61,7 +61,7 @@ def count_cur_sim(request):
         '''
         # Added a comment to Main by Pgarikap user.
         # Added a comment to Main by rvudattu user.
-        return JsonResponse({"status": "success", "data": "Response from Git Poc Main branch version-5.0"})
+        return JsonResponse({"status": "success", "data": "Response from Git Poc Main branch version-7.0"})
 
     except Exception as e:
         return JsonResponse({"status": "failed", "msg": str(e)})
