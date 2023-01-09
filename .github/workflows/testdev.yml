@@ -3,14 +3,14 @@ name: git-django-cloud-poc
 
 on:
   push:
-    branches: [newdev3]
+    branches: [newdev4]
   pull_request:
-    branches: [newdev3]
+    branches: [newdev4]
 
 env:
   PROJECT_ID: ${{ secrets.RUN_PROJECT }}
   RUN_REGION: us-east4
-  SERVICE_NAME: oms-django-git-poc-newdev3
+  SERVICE_NAME: oms-django-git-poc-newdev4
 
 
 jobs:
