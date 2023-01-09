@@ -11,6 +11,7 @@ bin-release/
 workflows/testdev.yml
 
 # Executables
+*.workflows/testdev.yml
 *.swf
 *.air
 *.ipa
