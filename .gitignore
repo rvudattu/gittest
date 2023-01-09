@@ -9,10 +9,10 @@ bin-release/
 # .github/workflows/testdev.yml
 # *.testdev.yml
 # workflows/testdev.yml
-
+testdev.yml
 # Executables
 # *.workflows/testdev.yml
-*.github/workflows/testdev.yml
+# *.github/workflows/testdev.yml
 *.swf
 *.air
 *.ipa
