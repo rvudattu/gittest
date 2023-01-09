@@ -8,10 +8,11 @@ bin-release/
 .settings/
 # .github/workflows/testdev.yml
 # *.testdev.yml
-workflows/testdev.yml
+# workflows/testdev.yml
 
 # Executables
-*.workflows/testdev.yml
+# *.workflows/testdev.yml
+*..github/workflows/testdev.yml
 *.swf
 *.air
 *.ipa
