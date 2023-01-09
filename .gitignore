@@ -12,7 +12,7 @@ bin-release/
 
 # Executables
 # *.workflows/testdev.yml
-*..github/workflows/testdev.yml
+*.github/workflows/testdev.yml
 *.swf
 *.air
 *.ipa
