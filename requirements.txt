@@ -1,0 +1,12 @@
+﻿aniso8601
+cx-Oracle==8.3.0
+Django
+djangorestframework
+httplib2
+idna
+numpy
+pandas
+# pyarrow
+requests
+gunicorn
+
